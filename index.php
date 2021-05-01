@@ -1,5 +1,5 @@
 <?php 
 
-echo 'Bem vindos!';
+echo 'Bem vindos!, testando ssh';
 
 ?>
